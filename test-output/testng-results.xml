@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[one]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="85" started-at="2018-10-02T15:34:29Z" finished-at="2018-10-02T15:34:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="85" started-at="2018-10-02T15:34:29Z" finished-at="2018-10-02T15:34:29Z">
+      <class name="genric.Utility">
+        <test-method status="PASS" signature="test()[pri:0, instance:genric.Utility@6ee52dcd]" name="test" duration-ms="31" started-at="2018-10-02T15:34:29Z" finished-at="2018-10-02T15:34:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[one]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- genric.Utility -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
