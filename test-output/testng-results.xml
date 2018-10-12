@@ -2,28 +2,22 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
     <line>
-      <![CDATA[]]>
-    </line>
-    <line>
       <![CDATA[one]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="85" started-at="2018-10-02T15:34:29Z" finished-at="2018-10-02T15:34:29Z">
+  <suite name="Default suite" duration-ms="146" started-at="2018-10-06T08:50:15Z" finished-at="2018-10-06T08:50:15Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="85" started-at="2018-10-02T15:34:29Z" finished-at="2018-10-02T15:34:29Z">
-      <class name="genric.Utility">
-        <test-method status="PASS" signature="test()[pri:0, instance:genric.Utility@6ee52dcd]" name="test" duration-ms="31" started-at="2018-10-02T15:34:29Z" finished-at="2018-10-02T15:34:29Z">
+    <test name="Default test" duration-ms="146" started-at="2018-10-06T08:50:15Z" finished-at="2018-10-06T08:50:15Z">
+      <class name="testcases.TC_01">
+        <test-method status="PASS" signature="testa()[pri:0, instance:testcases.TC_01@30a3107a]" name="testa" duration-ms="31" started-at="2018-10-06T08:50:15Z" finished-at="2018-10-06T08:50:15Z">
           <reporter-output>
-            <line>
-              <![CDATA[]]>
-            </line>
             <line>
               <![CDATA[one]]>
             </line>
           </reporter-output>
-        </test-method> <!-- test -->
-      </class> <!-- genric.Utility -->
+        </test-method> <!-- testa -->
+      </class> <!-- testcases.TC_01 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
